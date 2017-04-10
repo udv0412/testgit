@@ -1,1 +1,1 @@
-new feature pullrequest
+new features pullrequest
